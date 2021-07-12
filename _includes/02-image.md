@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[Tale of Two Cities cover](https://www.gutenberg.org/files/98/98-h/images/0404m.jpg)
